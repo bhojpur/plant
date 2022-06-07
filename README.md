@@ -1,2 +1,5 @@
-# plant
-The Bhojpur Plant is a software-as-a-service product used as a Diagnosis Engine based on Bhojpur.NET Platform for application delivery.
+# Bhojpur Plant - Diagnosis Engine
+
+The `Bhojpur Plant` is an aritificial intelligence enabled diagnosis engine applied within
+the [Bhojpur.NET Platform](https://github.com/bhojpur/platform/) ecosystem for delivery of
+distributed `applications` or `services`.
